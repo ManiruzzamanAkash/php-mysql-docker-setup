@@ -27,5 +27,8 @@ http://localhost:8000/
 
 #### PHPMyAdmin URL:
 http://localhost:8080/
+
+```shell
 Username: root
 Password: MYSQL_ROOT_PASSWORD
+```
